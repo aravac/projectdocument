@@ -1,0 +1,60 @@
+Problem Statement:
+
+The blackboard which we are using currently is not  friendly to both Instructors and students. Instructors face many problems in blackboard such as Students enrolled, tracking student grades  and so on. Students are facing problems like viewing the assignments submitted, courses that he is currently enrolled and so on. 
+
+Design Document:
+•	Both instructor and student should have same login page.
+Instructor login details:
+When an instructor logins , Instructor should see the list of courses that he/she is teaching for the semester and also the courses learning in this semester(if there are any). Accordingly if the instructor goes to the particular course then Instructor should have different modules for every course
+Instructor has 5 modules:
+•	Dashboard
+•	videos
+•	Course materials
+•	Assignments
+•	Discussion forms
+
+Dashboard:
+In this module, Instructor can view and grade students for the courses they are registered for the particular course. grading can be manual or automatic. for example, if there is an assignment then instructor can grade manually and if there is any quiz or if there is any points for watching the video that is posted then the grade should be automatically posted to dashboard. 
+
+Videos:
+In this module, Instructor can post the videos for this course and also view which student watched the video and also the number of times the students watched. Instructor has right to post delete/modify the post.
+Course Materials:
+In this module, instructor can post the materials for the course. Instructor has right to post delete/modify the post.
+Assignments:
+In this module, Instructor can post the assignments to students and view the assignments that are submitted by students. Instructor can write comments to students for their assignments. Instructor has right to post delete/modify the post.
+Discussion Forms:
+In this module, Instructor can post any type of discussion for this course.
+
+Student login details:
+When an student logins, student should see the list of courses that they are registered in a semester.
+If a student goes to a particular course that he/she registered for the semester, then student should have following modules for that course:
+Student has 5 modules:
+•	Dashboard
+•	videos
+•	Course materials
+•	Assignments
+•	Discussion forms
+
+
+Dashboard:
+In this module, students can view the grades for that particular course.
+Videos:
+In this module, student can view the videos for the course.
+Course Materials:
+In this module, student can view the materials for that particular course.
+Assignments:
+In this module, student can submit the assignment's and also view the assignments once it's submitted. Student can see the comments if there are any comments given by instructor.
+Discussion Forms:
+In this module, student can participate in any discussions.
+
+
+
+
+
+
+
+
+
+
+
+
